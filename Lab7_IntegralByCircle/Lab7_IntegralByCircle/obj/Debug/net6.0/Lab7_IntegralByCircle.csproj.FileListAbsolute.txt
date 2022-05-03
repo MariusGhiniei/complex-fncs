@@ -1,0 +1,15 @@
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/bin/Debug/net6.0/Lab7_IntegralByCircle
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/bin/Debug/net6.0/Lab7_IntegralByCircle.deps.json
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/bin/Debug/net6.0/Lab7_IntegralByCircle.runtimeconfig.json
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/bin/Debug/net6.0/Lab7_IntegralByCircle.dll
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/bin/Debug/net6.0/Lab7_IntegralByCircle.pdb
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.csproj.AssemblyReference.cache
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.AssemblyInfoInputs.cache
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.AssemblyInfo.cs
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.csproj.CoreCompileInputs.cache
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.dll
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/refint/Lab7_IntegralByCircle.dll
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.pdb
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/Lab7_IntegralByCircle.genruntimeconfig.cache
+/Users/marius/RiderProjects/Lab7_IntegralByCircle/Lab7_IntegralByCircle/obj/Debug/net6.0/ref/Lab7_IntegralByCircle.dll
